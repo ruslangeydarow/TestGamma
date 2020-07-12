@@ -1,0 +1,13 @@
+C:\Users\HP\source\repos\TestGamma\TestGamma\bin\Debug\netcoreapp3.1\TestGamma.exe
+C:\Users\HP\source\repos\TestGamma\TestGamma\bin\Debug\netcoreapp3.1\TestGamma.deps.json
+C:\Users\HP\source\repos\TestGamma\TestGamma\bin\Debug\netcoreapp3.1\TestGamma.runtimeconfig.json
+C:\Users\HP\source\repos\TestGamma\TestGamma\bin\Debug\netcoreapp3.1\TestGamma.runtimeconfig.dev.json
+C:\Users\HP\source\repos\TestGamma\TestGamma\bin\Debug\netcoreapp3.1\TestGamma.dll
+C:\Users\HP\source\repos\TestGamma\TestGamma\bin\Debug\netcoreapp3.1\TestGamma.pdb
+C:\Users\HP\source\repos\TestGamma\TestGamma\obj\Debug\netcoreapp3.1\TestGamma.csprojAssemblyReference.cache
+C:\Users\HP\source\repos\TestGamma\TestGamma\obj\Debug\netcoreapp3.1\TestGamma.AssemblyInfoInputs.cache
+C:\Users\HP\source\repos\TestGamma\TestGamma\obj\Debug\netcoreapp3.1\TestGamma.AssemblyInfo.cs
+C:\Users\HP\source\repos\TestGamma\TestGamma\obj\Debug\netcoreapp3.1\TestGamma.csproj.CoreCompileInputs.cache
+C:\Users\HP\source\repos\TestGamma\TestGamma\obj\Debug\netcoreapp3.1\TestGamma.dll
+C:\Users\HP\source\repos\TestGamma\TestGamma\obj\Debug\netcoreapp3.1\TestGamma.pdb
+C:\Users\HP\source\repos\TestGamma\TestGamma\obj\Debug\netcoreapp3.1\TestGamma.genruntimeconfig.cache
